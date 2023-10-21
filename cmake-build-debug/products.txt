@@ -1,0 +1,15 @@
+Product name: Banana
+Quantity: 500
+Selling price: 5
+Purchase cost: 2
+
+Product name: Apple
+Quantity: 300
+Selling price: 3
+Purchase cost: 1
+
+Product name: Watermelon
+Quantity: 700
+Selling price: 7
+Purchase cost: 3
+
