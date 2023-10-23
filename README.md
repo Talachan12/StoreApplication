@@ -1,4 +1,4 @@
-# StoreApplication
+# StoreApplication (C++/Python)
 The application is used to manage the store.
 Features:
 1. Displaying current information about the store the user manages.
