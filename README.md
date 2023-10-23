@@ -11,4 +11,4 @@ Features:
 
 # How to use the application:
 The main executable is located in the cmake-build-debug folder and it's called "untitled5", from there user can manage the store via the terminal.
-To create a graph, the User needs to save products to the file and open the "graph" executable in the main folder.
+To create a graph, the user needs to save products to the file and open the "graph" executable in the main folder.
